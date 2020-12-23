@@ -1,0 +1,170 @@
+X,Y,TOWN_NO,TOWN,TOTAL_SQMI,LAND_SQMI,WATER_SQMI,COUNTY,PLAN_ORG,DEP_DIST,COAST_AREA
+-73.4256505768319,41.9860188845167,"122",Salisbury,60.50,57.60,2.90,Litchfield,Northwestern Conn,DEP Western District,
+-73.2935685900945,42.0222642515168,"100",North Canaan,19.60,19.60,0.00,Litchfield,Northwestern Conn,DEP Western District,
+-73.1962241920279,41.9801449565525,"98",Norfolk,46.70,45.60,1.10,Litchfield,Litchfield Hills,DEP Western District,
+-73.0808105833225,42.0015458695464,"29",Colebrook,33.00,32.80,0.20,Litchfield,Litchfield Hills,DEP Western District,
+-72.9488967294987,42.0042931274258,"65",Hartland,34.50,33.00,1.50,Hartford,Litchfield Hills,DEP Western District,
+-72.8348515800958,41.9695454093472,"56",Granby,41.30,41.10,0.20,Hartford,Capitol Region,DEP Western District,
+-72.6788512497815,41.9944863271393,"139",Suffield,43.10,42.40,0.70,Hartford,Capitol Region,DEP Western District,
+-72.55471870029,41.9839789750923,"49",Enfield,33.80,32.90,0.90,Hartford,Capitol Region,DEP Eastern District,
+-72.4530514231731,41.99487941931,"129",Somers,28.70,28.50,0.20,Tolland,Capitol Region,DEP Eastern District,
+-72.3123280592977,41.9875205371605,"134",Stafford,60.80,60.40,0.40,Tolland,Non-Member,DEP Eastern District,
+-72.1602643103736,41.9930248216721,"145",Union,29.90,29.20,0.70,Tolland,Non-Member,DEP Eastern District,
+-72.0221320760756,41.9694334934481,"169",Woodstock,61.60,60.80,0.80,Windham,Northeastern Conn,DEP Eastern District,
+-71.8735879746113,41.9797342500963,"141",Thompson,48.70,47.30,1.40,Windham,Northeastern Conn,DEP Eastern District,
+-73.3100441944678,41.9598824529327,"21",Canaan,33.40,33.10,0.30,Litchfield,Northwestern Conn,DEP Western District,
+-72.7411386474761,41.9424770075807,"40",East Granby,17.40,17.40,0.00,Hartford,Capitol Region,DEP Western District,
+-72.9729552525149,41.9315839801224,"5",Barkhamsted,39.00,36.30,2.70,Litchfield,Litchfield Hills,DEP Western District,
+-73.1028177055586,41.9218824606112,"162",Winchester,34.00,32.30,1.70,Litchfield,Litchfield Hills,DEP Western District,
+-72.0919766524868,41.8915873961555,"39",Eastford,28.60,28.30,0.30,Windham,Northeastern Conn,DEP Eastern District,
+-72.1709856255983,41.8911163608229,"3",Ashford,40.30,39.90,0.40,Windham,Windham,DEP Eastern District,
+-72.2593699540284,41.8895360910517,"160",Willington,34.80,34.70,0.10,Tolland,Windham,DEP Eastern District,
+-72.448494217229,41.9151388393704,"48",Ellington,34.80,34.30,0.50,Tolland,Capitol Region,DEP Eastern District,
+-72.6548412614124,41.9267906193425,"165",Windsor Locks,9.20,8.90,0.30,Hartford,Capitol Region,DEP Western District,
+-72.5673008159066,41.904929960402,"47",East Windsor,26.80,26.20,0.60,Hartford,Capitol Region,DEP Eastern District,
+-71.8711989534025,41.9093194577146,"116",Putnam,20.10,20.10,0.00,Windham,Northeastern Conn,DEP Eastern District,
+-72.3649354623998,41.8785788524061,"142",Tolland,40.40,39.70,0.70,Tolland,Capitol Region,DEP Eastern District,
+-72.6736582647048,41.8712877408469,"164",Windsor,31.20,30.20,1.00,Hartford,Capitol Region,DEP Western District,
+-73.4376171756981,41.8575043637978,"125",Sharon,60.30,59.80,0.50,Litchfield,Northwestern Conn,DEP Western District,
+-72.9085434023694,41.8599346850351,"23",Canton,25.00,24.60,0.40,Hartford,Capitol Region,DEP Western District,
+-72.8258076159662,41.8730021961107,"128",Simsbury,34.50,34.50,0.00,Hartford,Capitol Region,DEP Western District,
+-73.3298339680571,41.8474896133564,"31",Cornwall,46.80,46.40,0.40,Litchfield,Northwestern Conn,DEP Western District,
+-71.983430263771,41.8670441017185,"112",Pomfret,40.60,40.60,0.00,Windham,Northeastern Conn,DEP Eastern District,
+-73.2335576516127,41.8500986021862,"55",Goshen,45.60,44.70,0.90,Litchfield,Litchfield Hills,DEP Western District,
+-71.8499656152834,41.8310257690048,"69",Killingly,50.00,49.00,1.00,Windham,Northeastern Conn,DEP Eastern District,
+-72.7407377939004,41.8426291646744,"11",Bloomfield,26.40,26.30,0.10,Hartford,Capitol Region,DEP Western District,
+-73.0055296300638,41.8442271147423,"92",New Hartford,38.30,37.20,1.10,Litchfield,Litchfield Hills,DEP Western District,
+-73.128075803883,41.8349402852756,"143",Torrington,40.00,39.60,0.40,Litchfield,Litchfield Hills,DEP Western District,
+-72.4607471462613,41.8364150246266,"146",Vernon,18.60,18.30,0.30,Tolland,Capitol Region,DEP Eastern District,
+-72.5734404755258,41.8352178682275,"132",South Windsor,28.50,28.00,0.50,Hartford,Capitol Region,DEP Eastern District,
+-72.3394056080777,41.7829154810501,"32",Coventry,37.30,36.60,0.70,Tolland,Windham,DEP Eastern District,
+-72.2287318574139,41.7892053936863,"78",Mansfield,45.20,45.10,0.10,Tolland,Windham,DEP Eastern District,
+-72.1277306749492,41.7930498572278,"24",Chaplin,19.80,19.80,0.00,Windham,Windham,DEP Eastern District,
+-72.058305704605,41.7841829089636,"63",Hampton,25.30,25.20,0.10,Windham,Windham,DEP Eastern District,
+-71.9545082407126,41.7869824497122,"19",Brooklyn,28.70,28.70,0.00,Windham,Northeastern Conn,DEP Eastern District,
+-72.8540158383504,41.790697032807,"4",Avon,23.50,23.50,0.00,Hartford,Capitol Region,DEP Western District,
+-72.5242263078394,41.7752467245319,"77",Manchester,27.20,26.90,0.30,Hartford,Capitol Region,DEP Eastern District,
+-72.9590844223388,41.7598706719247,"20",Burlington,30.60,30.00,0.60,Hartford,Central Connecticut,DEP Western District,
+-72.6834270445884,41.7660045597751,"64",Hartford,18.40,17.20,1.20,Hartford,Capitol Region,DEP Western District,
+-72.439087792347,41.7664018841129,"12",Bolton,15.50,15.20,0.30,Tolland,Capitol Region,DEP Eastern District,
+-72.7538722699359,41.7669492878176,"155",West Hartford,22.20,21.90,0.30,Hartford,Capitol Region,DEP Western District,
+-72.6152853024233,41.7634611616181,"43",East Hartford,18.10,18.10,0.00,Hartford,Capitol Region,DEP Eastern District,
+-73.0582653297907,41.7550048175454,"66",Harwinton,31.40,31.30,0.10,Litchfield,Litchfield Hills,DEP Western District,
+-73.1931458075758,41.7413071978242,"74",Litchfield,57.30,56.70,0.60,Litchfield,Litchfield Hills,DEP Western District,
+-73.4539777298338,41.7299002649182,"68",Kent,49.50,49.00,0.50,Litchfield,Northwestern Conn,DEP Western District,
+-73.3448784981874,41.7405468280571,"149",Warren,28.00,27.40,0.60,Litchfield,Northwestern Conn,DEP Western District,
+-71.8184870093514,41.7024224859657,"136",Sterling,27.20,27.20,0.00,Windham,Northeastern Conn,DEP Eastern District,
+-72.8409440624095,41.7288400459629,"52",Farmington,28.70,28.40,0.30,Hartford,Capitol Region,DEP Western District,
+-71.8987162860066,41.6991630320256,"109",Plainfield,42.70,42.50,0.20,Windham,Northeastern Conn,DEP Eastern District,
+-72.3761079827343,41.7331340876676,"1",Andover,15.60,15.30,0.30,Tolland,Capitol Region,DEP Eastern District,
+-71.9997518338538,41.6979134376857,"22",Canterbury,40.00,40.00,0.00,Windham,Northeastern Conn,DEP Eastern District,
+-72.1668123714238,41.7098093290534,"163",Windham,28.00,27.90,0.10,Windham,Windham,DEP Eastern District,
+-72.0880322531898,41.6979385189305,"123",Scotland,18.30,18.30,0.00,Windham,Windham,DEP Eastern District,
+-72.5471809420126,41.6920472679109,"54",Glastonbury,52.50,51.70,0.80,Hartford,Capitol Region,DEP Eastern District,
+-72.3069772480909,41.6939232200983,"30",Columbia,21.80,21.20,0.60,Tolland,Windham,DEP Eastern District,
+-72.3903209065753,41.6593678680616,"67",Hebron,37.50,37.30,0.20,Tolland,Capitol Region,DEP Eastern District,
+-72.6703646023617,41.7011868652194,"159",Wethersfield,13.00,12.50,0.50,Hartford,Capitol Region,DEP Western District,
+-72.7309184896193,41.6869861343088,"94",Newington,13.20,13.20,0.00,Hartford,Capitol Region,DEP Western District,
+-72.9406338211413,41.6810808569771,"17",Bristol,26.60,26.40,0.20,Hartford,Central Connecticut,DEP Western District,
+-73.2079925872203,41.6897975797642,"87",Morris,18.80,17.20,1.60,Litchfield,Litchfield Hills,DEP Western District,
+-72.7859315625518,41.6760020842678,"89",New Britain,13.30,13.30,0.00,Hartford,Central Connecticut,DEP Western District,
+-72.2401323290683,41.6313840169409,"71",Lebanon,56.10,55.10,1.00,New London,Windham,DEP Eastern District,
+-73.0262780011343,41.6641584144003,"111",Plymouth,22.40,22.20,0.20,Litchfield,Central Connecticut,DEP Western District,
+-73.3145407099993,41.6522912170332,"150",Washington,38.70,38.10,0.60,Litchfield,Northwestern Conn,DEP Western District,
+-73.0858876745003,41.6697057889872,"140",Thomaston,12.00,12.00,0.00,Litchfield,Central Naug Valley,DEP Western District,
+-72.8571304957605,41.6741474165885,"110",Plainville,9.90,9.90,0.00,Hartford,Central Connecticut,DEP Western District,
+-72.4544996759191,41.6326835770749,"79",Marlborough,23.50,23.40,0.10,Hartford,Capitol Region,DEP Eastern District,
+-72.6632873641259,41.6571099624868,"119",Rocky Hill,13.90,13.60,0.30,Hartford,Capitol Region,DEP Western District,
+-73.4215781633603,41.6040901099685,"96",New Milford,64.40,62.80,1.60,Litchfield,Housatonic Valley,DEP Western District,
+-73.1177301876986,41.616015824789,"153",Watertown,29.80,29.50,0.30,Litchfield,Central Naug Valley,DEP Western District,
+-73.2113934154445,41.6374955633252,"10",Bethlehem,19.70,19.60,0.10,Litchfield,Central Naug Valley,DEP Western District,
+-73.499181708074,41.5800698592504,"127",Sherman,23.50,22.00,1.50,Fairfield,Housatonic Valley,DEP Western District,
+-72.1432405366617,41.6153242786404,"53",Franklin,20.00,20.00,0.00,New London,Southeastern Conn,DEP Eastern District,
+-72.0758082998052,41.6304321472755,"133",Sprague,13.40,12.80,0.60,New London,Southeastern Conn,DEP Eastern District,
+-72.8800272635791,41.6048917088613,"131",Southington,36.90,36.80,0.10,Hartford,Central Connecticut,DEP Western District,
+-72.7760152465437,41.6111577680927,"7",Berlin,27.00,26.80,0.20,Hartford,Central Connecticut,DEP Western District,
+-72.0141633619589,41.6014468231256,"73",Lisbon,16.50,16.20,0.30,New London,Southeastern Conn,DEP Eastern District,
+-71.832464335089,41.5798896186091,"147",Voluntown,39.70,39.00,0.70,New London,Southeastern Conn,DEP Eastern District,
+-72.5074074836945,41.569590883116,"42",East Hampton,36.80,35.60,1.20,Middlesex,Midstate,DEP Eastern District,
+-71.9227438288552,41.5852054411731,"58",Griswold,37.60,35.10,2.50,New London,Southeastern Conn,DEP Eastern District,
+-72.9731820072739,41.6006625827308,"166",Wolcott,20.60,20.00,0.60,New Haven,Central Naug Valley,DEP Western District,
+-72.5885378812523,41.5993369576271,"113",Portland,23.70,23.30,0.40,Middlesex,Midstate,DEP Eastern District,
+-72.663730492445,41.6121591120648,"33",Cromwell,13.50,12.30,1.20,Middlesex,Midstate,DEP Western District,
+-72.3472757119986,41.5620266026866,"28",Colchester,48.70,47.90,0.80,New London,Southeastern Conn,DEP Eastern District,
+-73.0360213515486,41.5582594181289,"151",Waterbury,28.80,28.60,0.20,New Haven,Central Naug Valley,DEP Western District,
+-73.2072072617249,41.5613607726706,"168",Woodbury,36.80,36.70,0.10,Litchfield,Central Naug Valley,DEP Western District,
+-72.0882419909586,41.5493955315921,"104",Norwich,27.10,26.10,1.00,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-73.3005685694419,41.5539629750069,"120",Roxbury,26.40,26.40,0.00,Litchfield,Northwestern Conn,DEP Western District,
+-72.6545470832036,41.5476609967849,"83",Middletown,42.90,41.70,1.20,Middlesex,Midstate,DEP Eastern District,
+-72.1748727262752,41.5453490766784,"13",Bozrah,20.00,19.70,0.30,New London,Southeastern Conn,DEP Eastern District,
+-72.7944939940579,41.536838375833,"80",Meriden,24.00,23.70,0.30,New Haven,South Central Conn,DEP Western District,
+-72.0007559246447,41.5224183811399,"114",Preston,31.30,30.80,0.50,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-73.1227602734086,41.5271246742485,"81",Middlebury,18.00,17.50,0.50,New Haven,Central Naug Valley,DEP Western District,
+-73.3600973886368,41.5208399735827,"16",Bridgewater,16.30,16.30,0.00,Litchfield,Housatonic Valley,DEP Western District,
+-72.9039953018313,41.5114518461356,"25",Cheshire,33.00,32.40,0.60,New Haven,Central Naug Valley,DEP Western District,
+-72.7149244330022,41.5176869616306,"82",Middlefield,13.30,12.70,0.60,Middlesex,Midstate,DEP Eastern District,
+-72.2664380178847,41.4853819275116,"121",Salem,29.90,29.00,0.90,New London,Southeastern Conn,DEP Eastern District,
+-72.3943485805325,41.479796473239,"41",East Haddam,57.60,55.60,2.00,Middlesex,Midstate,DEP Eastern District,
+-73.4882810158219,41.487803860917,"91",New Fairfield,25.80,20.80,5.00,Fairfield,Housatonic Valley,DEP Western District,
+-72.9762778428478,41.4991810624054,"115",Prospect,14.30,14.20,0.10,New Haven,Central Naug Valley,DEP Western District,
+-71.8753461199257,41.4696532343191,"102",North Stonington,56.30,55.50,0.80,New London,Southeastern Conn,DEP Eastern District,
+-72.1567159462634,41.4638005936708,"86",Montville,43.90,42.10,1.80,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-72.5459473152036,41.4675703294021,"61",Haddam,46.70,44.50,2.20,Middlesex,Midstate,DEP Eastern District,
+-73.0517676810289,41.4889777436159,"88",Naugatuck,16.20,16.20,0.00,New Haven,Central Naug Valley,DEP Western District,
+-73.3923244597689,41.4675296515557,"18",Brookfield,19.80,19.60,0.20,Fairfield,Housatonic Valley,DEP Western District,
+-72.8041565391719,41.4590599814914,"148",Wallingford,39.80,39.40,0.40,New Haven,South Central Conn,DEP Western District,
+-73.2327479614165,41.4745319243586,"130",Southbury,40.90,40.70,0.20,New Haven,Central Naug Valley,DEP Western District,
+-72.6830864428386,41.46229475074,"38",Durham,23.30,23.20,0.10,Middlesex,Midstate,DEP Eastern District,
+-73.1350983140828,41.4313147095758,"108",Oxford,33.00,32.60,0.40,New Haven,Central Naug Valley,DEP Western District,
+-72.0164775868916,41.4399706517297,"72",Ledyard,40.50,39.30,1.20,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-73.2928277445701,41.3988229834646,"97",Newtown,59.30,58.50,0.80,Fairfield,Housatonic Valley,DEP Western District,
+-72.9928795617143,41.4259953908544,"8",Bethany,21.00,20.70,0.30,New Haven,South Central Conn,DEP Western District,
+-73.0568349128605,41.4389273225178,"6",Beacon Falls,9.80,9.80,0.00,New Haven,Central Naug Valley,DEP Western District,
+-73.4705270599115,41.4013640556389,"34",Danbury,44.00,42.00,2.00,Fairfield,Housatonic Valley,DEP Western District,
+-72.9215549788146,41.3959857885991,"62",Hamden,33.00,32.70,0.30,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-72.235486024346,41.3674498797997,"45",East Lyme,34.80,33.00,1.80,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-72.5782286638336,41.3790665227905,"70",Killingworth,36.00,35.80,0.20,Middlesex,Conn River Estuary,DEP Eastern District,
+-72.3437776817157,41.3964893416275,"75",Lyme,33.00,31.20,1.80,New London,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-72.6285335304292,41.3406863807877,"76",Madison,36.30,36.00,0.30,New Haven,South Central Conn,DEP Eastern District,OLISP Coastal Area
+-71.9023848606722,41.3766222042302,"137",Stonington,42.70,37.90,4.80,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-72.8574689218207,41.3817873414325,"101",North Haven,21.00,21.00,0.00,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-72.4830766735014,41.4059693678592,"26",Chester,15.90,15.20,0.70,Middlesex,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-72.7002976268178,41.3345214819421,"60",Guilford,47.60,46.60,1.00,New Haven,South Central Conn,DEP Eastern District,OLISP Coastal Area
+-73.3926562401159,41.3748015605803,"9",Bethel,17.00,16.90,0.10,Fairfield,Housatonic Valley,DEP Western District,
+-72.1482723970616,41.370346134318,"152",Waterford,36.70,34.40,2.30,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-72.7767484859266,41.3644807020046,"99",North Branford,26.80,25.10,1.70,New Haven,South Central Conn,DEP Eastern District,
+-73.0871665026604,41.3810259961196,"124",Seymour,14.70,14.40,0.30,New Haven,Valley,DEP Western District,
+-72.0278633926364,41.3620893829628,"59",Groton,38.30,33.00,5.30,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-72.4620688034714,41.3689639004138,"36",Deep River,14.20,13.40,0.80,Middlesex,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-73.0100318097721,41.356608391724,"167",Woodbridge,19.30,18.90,0.40,New Haven,South Central Conn,DEP Western District,
+-73.2249189440438,41.3379344444351,"85",Monroe,26.40,26.20,0.20,Fairfield,Greater Bridgeport,DEP Western District,
+-72.1043211685459,41.3537256732106,"95",New London,7.30,5.40,1.90,New London,Southeastern Conn,DEP Eastern District,OLISP Coastal Area
+-72.4145607585472,41.3500326055836,"50",Essex,12.20,10.50,1.70,Middlesex,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-73.50188133191,41.3061539956989,"118",Ridgefield,35.00,34.70,0.30,Fairfield,Housatonic Valley,DEP Western District,
+-73.1382212336978,41.3060975143692,"126",Shelton,31.40,30.50,0.90,Fairfield,Valley,DEP Western District,OLISP Coastal Area
+-72.3032521958035,41.3204258413288,"105",Old Lyme,27.10,24.00,3.10,New London,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-72.8573471042596,41.2991364527903,"44",East Haven,12.60,12.30,0.30,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-73.0688896980701,41.3442719939972,"2",Ansonia,6.20,6.20,0.00,New Haven,Valley,DEP Western District,
+-73.0829994779898,41.3264492150586,"37",Derby,5.30,5.20,0.10,New Haven,Valley,DEP Western District,
+-73.3913916801082,41.3050213338673,"117",Redding,32.20,31.80,0.40,Fairfield,Housatonic Valley,DEP Western District,
+-72.924809299028,41.311528996884,"93",New Haven,21.10,18.40,2.70,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-72.4663766397619,41.3070099878697,"154",Westbrook,16.20,16.20,0.00,Middlesex,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-72.3870197561595,41.303097687905,"106",Old Saybrook,18.30,15.20,3.10,Middlesex,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-72.5299495686544,41.2988987084103,"27",Clinton,17.20,16.30,0.90,Middlesex,Conn River Estuary,DEP Eastern District,OLISP Coastal Area
+-73.3000842469373,41.2648859129813,"46",Easton,28.80,27.50,1.30,Fairfield,Greater Bridgeport,DEP Western District,
+-72.7987850942459,41.2859826579306,"14",Branford,27.90,21.50,6.40,New Haven,South Central Conn,DEP Eastern District,OLISP Coastal Area
+-73.027165033765,41.2826216564714,"107",Orange,17.60,17.40,0.20,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-72.9664759785039,41.2736530384784,"156",West Haven,10.60,10.60,0.00,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-73.2084247211173,41.2601734817412,"144",Trumbull,23.50,23.30,0.20,Fairfield,Greater Bridgeport,DEP Western District,
+-73.0604052212224,41.2264013046062,"84",Milford,23.50,22.30,1.20,New Haven,South Central Conn,DEP Western District,OLISP Coastal Area
+-73.3725672590419,41.2284330192738,"157",Weston,20.80,19.90,0.90,Fairfield,Southwestern Conn,DEP Western District,
+-73.1304039990379,41.2078673215556,"138",Stratford,18.70,17.30,1.40,Fairfield,Greater Bridgeport,DEP Western District,OLISP Coastal Area
+-73.4398877871749,41.2069319946664,"161",Wilton,26.80,26.40,0.40,Fairfield,Southwestern Conn,DEP Western District,
+-73.273260725136,41.1777538516393,"51",Fairfield,30.20,29.80,0.40,Fairfield,Greater Bridgeport,DEP Western District,OLISP Coastal Area
+-73.1959867493456,41.1925615379549,"15",Bridgeport,17.50,15.90,1.60,Fairfield,Greater Bridgeport,DEP Western District,OLISP Coastal Area
+-73.499223951672,41.1591193685697,"90",New Canaan,23.30,23.00,0.30,Fairfield,Southwestern Conn,DEP Western District,
+-73.3464948760093,41.145318674427,"158",Westport,22.40,19.90,2.50,Fairfield,Southwestern Conn,DEP Western District,OLISP Coastal Area
+-73.5590370224089,41.1050279961402,"135",Stamford,38.50,37.30,1.20,Fairfield,Southwestern Conn,DEP Western District,OLISP Coastal Area
+-73.422614497081,41.1181478024976,"103",Norwalk,27.70,23.00,4.70,Fairfield,Southwestern Conn,DEP Western District,OLISP Coastal Area
+-73.6384674457496,41.0690824769707,"57",Greenwich,50.60,47.30,3.30,Fairfield,Southwestern Conn,DEP Western District,OLISP Coastal Area
+-73.4823550054125,41.0811456463311,"35",Darien,13.70,12.90,0.80,Fairfield,Southwestern Conn,DEP Western District,OLISP Coastal Area
